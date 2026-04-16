@@ -1,0 +1,14 @@
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.AssemblyInfoInputs.cache
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.AssemblyInfo.cs
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.csproj.CoreCompileInputs.cache
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/bin/Debug/net9.0/TrainModel
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/bin/Debug/net9.0/TrainModel.deps.json
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/bin/Debug/net9.0/TrainModel.runtimeconfig.json
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/bin/Debug/net9.0/TrainModel.dll
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/bin/Debug/net9.0/TrainModel.pdb
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.dll
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/refint/TrainModel.dll
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.pdb
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/TrainModel.genruntimeconfig.cache
+/home/bcaumont/cursus_42/ft_linear_regression/TrainModel/obj/Debug/net9.0/ref/TrainModel.dll
