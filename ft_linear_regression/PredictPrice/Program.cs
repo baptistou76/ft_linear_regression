@@ -19,13 +19,13 @@ class Predict
 		double theta0 = double.Parse(lines[0]);
 		double theta1 = double.Parse(lines[1]);
 		Console.WriteLine("Enter a car mileage: ");
-		string input = Console.ReadLine();
+		string? input = Console.ReadLine();
 		if (!double.TryParse(input, out double mileage))
         {
             Console.WriteLine("Invalid mileage input");
             return;
         }
 		double price = EstimatePrice(mileage, theta0, theta1);
-		Console.WriteLine($"Estimated price: {price}");
+		Console.WriteLine($"Estimated price: {price:F2}");
 	}
 }

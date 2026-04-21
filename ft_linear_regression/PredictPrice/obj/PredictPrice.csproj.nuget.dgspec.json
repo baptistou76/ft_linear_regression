@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/bcaumont/cursus_42/ft_linear_regression/PredictPrice/PredictPrice.csproj": {}
+    "/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/PredictPrice/PredictPrice.csproj": {}
   },
   "projects": {
-    "/home/bcaumont/cursus_42/ft_linear_regression/PredictPrice/PredictPrice.csproj": {
+    "/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/PredictPrice/PredictPrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bcaumont/cursus_42/ft_linear_regression/PredictPrice/PredictPrice.csproj",
+        "projectUniqueName": "/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/PredictPrice/PredictPrice.csproj",
         "projectName": "PredictPrice",
-        "projectPath": "/home/bcaumont/cursus_42/ft_linear_regression/PredictPrice/PredictPrice.csproj",
-        "packagesPath": "/home/bcaumont/.nuget/packages/",
-        "outputPath": "/home/bcaumont/cursus_42/ft_linear_regression/PredictPrice/obj/",
+        "projectPath": "/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/PredictPrice/PredictPrice.csproj",
+        "packagesPath": "/home/baptiste/.nuget/packages/",
+        "outputPath": "/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/PredictPrice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/bcaumont/.nuget/NuGet/NuGet.Config"
+          "/home/baptiste/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/baptiste/.dotnet/sdk/9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

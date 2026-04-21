@@ -1,0 +1,15 @@
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/bin/Debug/net9.0/EvaluationModel
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/bin/Debug/net9.0/EvaluationModel.deps.json
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/bin/Debug/net9.0/EvaluationModel.runtimeconfig.json
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/bin/Debug/net9.0/EvaluationModel.dll
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/bin/Debug/net9.0/EvaluationModel.pdb
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.AssemblyInfoInputs.cache
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.AssemblyInfo.cs
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.csproj.CoreCompileInputs.cache
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.sourcelink.json
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.dll
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/refint/EvaluationModel.dll
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.pdb
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/EvaluationModel.genruntimeconfig.cache
+/home/baptiste/WORKPLACE/ft_linear/ft_linear_regression/ft_linear_regression/EvaluationModel/obj/Debug/net9.0/ref/EvaluationModel.dll
